@@ -34,7 +34,7 @@ authors:
     email: zixiu.su@mavs.uta.edu
 description: >- # this means to ignore newlines until "baseurl:"
   We aim to improve existing virtual keyboards by integrating eye tracking technology, on-screen keyboards, and predictive text.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://eyetrackingcse.github.io/Website/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
