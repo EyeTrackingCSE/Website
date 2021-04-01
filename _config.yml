@@ -25,7 +25,7 @@ authors:
     email: steven.kosta@mavs.uta.edu
   Anthony:
     display_name: Anthony Vardaro
-    email: anthony.vardaro@mavs.uta.edu
+    email: me@anthonyvardaro.com
   Kelly:
     display_name: Thanhthao Kelly Le
     email: thanhthao.le@mavs.uta.edu
@@ -35,7 +35,7 @@ authors:
 description: >- # this means to ignore newlines until "baseurl:"
   We aim to improve existing virtual keyboards by integrating eye tracking technology, on-screen keyboards, and predictive text.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eyetrackingcse.github.io/Website/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
