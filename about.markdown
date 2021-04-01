@@ -14,7 +14,7 @@ permalink: /about/
 
 Anthony Vardaro
 {: style="color:black; font-size: 150%; text-align: left;"}
-<anthony.vardaro@mavs.uta.edu>\
+<me@anthonyvardaro.com>\
 [GitHub](https://github.com/vardaro)
 
 Steven Michael Kosta Jr.
