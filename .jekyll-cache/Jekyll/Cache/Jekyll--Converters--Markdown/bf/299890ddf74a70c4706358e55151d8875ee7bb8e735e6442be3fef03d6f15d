@@ -1,0 +1,6 @@
+I";<p>You can find the source code for the Eye Tracking Application at GitHub:
+<a href="https://github.com/EyeTrackingCSE/eyetracking.git">EyeTracking</a></p>
+
+<p>You can find the C++ module that we used to bind the Tobii Native APIs here:
+<a href="https://www.npmjs.com/package/eyetracking">Tobii Native APIs</a></p>
+:ET
